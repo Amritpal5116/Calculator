@@ -1,0 +1,10 @@
+C:\Users\ABC\source\repos\MCalculator\MCalculator\bin\Debug\MCalculator.exe.config
+C:\Users\ABC\source\repos\MCalculator\MCalculator\bin\Debug\MCalculator.exe
+C:\Users\ABC\source\repos\MCalculator\MCalculator\bin\Debug\MCalculator.pdb
+C:\Users\ABC\source\repos\MCalculator\MCalculator\bin\Debug\nunit.framework.dll
+C:\Users\ABC\source\repos\MCalculator\MCalculator\bin\Debug\nunit.framework.xml
+C:\Users\ABC\source\repos\MCalculator\MCalculator\obj\Debug\MCalculator.csprojAssemblyReference.cache
+C:\Users\ABC\source\repos\MCalculator\MCalculator\obj\Debug\MCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\MCalculator\MCalculator\obj\Debug\MCalculator.csproj.CopyComplete
+C:\Users\ABC\source\repos\MCalculator\MCalculator\obj\Debug\MCalculator.exe
+C:\Users\ABC\source\repos\MCalculator\MCalculator\obj\Debug\MCalculator.pdb
